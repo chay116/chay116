@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Welcome&fontSize=90) <br>
 
 ![](https://img.shields.io/github/followers/chay116?style=social) <br>
-<a href="limyoung116@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <br>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:limyoung116@gmail.com)](mailto:limyoung116@gmail.com) limyoung116@gmail.com <br>
 <a href="https://www.linkedin.com/in/lim-chaeyoung-6b0046132/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 
 ## Profile
@@ -23,13 +23,14 @@
 - <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/></a><img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=flat&logo=GNUBash&logoColor=white"/></a>
 
 ## 💻 Projects
-
+<br><br>
 
 ## 📝 Gitbooks
+<br><br>
 
-
-
+## ⚙️ Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chay116)](https://github.com/chay116)
+[![chay116's GitHub stats](https://github-readme-stats.vercel.app/api?username=chay116)](https://github.com/chay116)<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=chay116)](https://solved.ac/chay116/)
-[![chalim's 42 stats](https://badge42.herokuapp.com/api/stats/chalim)](https://github.com/chalim/badge42)
-[![chay116's GitHub stats](https://github-readme-stats.vercel.app/api?username=chay116)](https://github.com/chay116)
-[![CodeForces Profile](https://cf.leed.at?id=chay116)](https://codeforces.com/profile/chay116)
+[![chalim's 42 stats](https://badge42.herokuapp.com/api/stats/chalim)](https://github.com/chalim/badge42)<br>
+[![CodeForces Profile](https://cf.leed.at?id=chay116)](https://codeforces.com/profile/chay116)<br>
