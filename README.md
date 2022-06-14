@@ -28,10 +28,10 @@
 -->
 
 ## 💻 Projects
-<br><br>
+<br>Developing 3D Engine with physics (https://github.com/chay116/cha_engine)<br>
 
-## 📝 Gitbooks
-<br><br>
+## 📝 Personal Study Blog
+<br>https://chay116.tistory.com<br>
 
 ## ⚙️ Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chay116)](https://github.com/chay116)
